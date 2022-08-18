@@ -18,7 +18,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align= "center" alt= "ps" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
   <img align= "center" alt= "after" src = "https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
-  <img align= "center" alt= "premiere" src =https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+  
   <img align= "center" alt= "figma" src = https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white />
   
 
